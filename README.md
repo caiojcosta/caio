@@ -1,4 +1,4 @@
-## Leia-me: Desvendando o Portfólio do Caio Costa
+## Desvendando o Portfólio do Caio Costa
 
 ### O que você vai encontrar por aqui?
 Um portfólio online simples e interativo, criado para apresentar as habilidades e experiências do Caio Costa. A ideia é oferecer uma forma clara e organizada de explorar o currículo, os projetos e os conhecimentos do Caio.
