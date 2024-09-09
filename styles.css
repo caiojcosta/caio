@@ -169,8 +169,12 @@ footer {
     position: fixed;
     bottom: 20px;
     right: 20px;
+    width: 65px;
     font-size: 48px;
-    color: #25D366;
+    border-radius: 50%;
+    background-color: #25D366;
+    color: #ffffff;   
+    justify-content: center;
     z-index: 999;
     cursor: pointer;
   }
